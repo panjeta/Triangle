@@ -18,6 +18,7 @@ namespace TriangleTest
            int  secondside =7;
             int thirdside =7;
 
+
             string expectedoutput = "equilateral";
             string actualoutput = TriangleSolver.Analyze(firstside ,secondside ,thirdside);
 
