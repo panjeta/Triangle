@@ -13,6 +13,7 @@ namespace TriangleTest
     {
         [Test]
        public void Analyze_sideuserInput7_7_7_Return_Equilatral()
+
         {
             int firstside =7;
            int  secondside =7;
